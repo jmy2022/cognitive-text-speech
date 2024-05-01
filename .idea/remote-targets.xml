@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="ubuntu@101.43.79.249:22" type="ssh/sftp" uuid="a796afaa-a644-4256-890d-2fff92779d1c">
+        <config>
+          <option name="projectRootOnTarget" value="/home/ubuntu/cognitive-text-speech" />
+          <option name="serverName" value="ubuntu@101.43.79.249:22 password" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/usr/local/go/bin" />
+            <option name="goRoot" value="/usr/local/go/bin" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
